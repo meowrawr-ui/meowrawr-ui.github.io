@@ -1,27 +1,27 @@
 <a id="portada"></a><h1>1. Portada</h1>
 * Título del Informe
 
-Empresa de Venta de Maquillajes y Manejo de Stock
+**Empresa de Venta de Maquillajes y Manejo de Stock**
 
 * Nombre del Estudiante
 
-Oliver Espinoza
+**Oliver Espinoza**
 
 * Rol en el Proyecto
 
-Implementador/Evaluador
+**Implementador/Evaluador**
 
 * Nombre del Curso:
 
-Redes Seguras y Ciberseguridad
+**Redes Seguras y Ciberseguridad**
 
 * Grupo de Trabajo: [Nombre del Grupo/Proy ecto]
 
-Grupo 6/Meowrawr
+**Grupo 6/Meowrawr**
 
 * Fecha de Entrega
 
-10/07/2024
+**10/07/2024**
 
 <a id="indice"></a><h1>2. Índice</h1>
 * Lista de contenidos del informe con los números de página correspondientes.
