@@ -134,4 +134,3 @@ en el informe pude entender y darsoluciones importantes para mejorar la evaluaci
 * Lista de referencias utilizadas en el informe, incluyendo artículos, libros, sitios web y documentación técnica.
 <a id="anexos   "></a><h1>9. Anexos (Opcional)</h1>
 * Documentación adicional que soporte el informe, como capturas de pantalla, gráficos, o resultados de pruebas detalladas.
-*
