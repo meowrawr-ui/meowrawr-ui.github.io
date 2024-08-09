@@ -71,6 +71,12 @@ No mucho despues de lanzar un prototipo del sitio a produccion en un dominio tem
 * Info leak: Server Leaks Version Information via "Server" HTTP Response Header Field
 * Info leak: Server Leaks Information via "X-Powered-By" HTTP Response Header Field(s)
 
+  graph LR
+    A[Atacante] --> B((CSRF))
+    A --> C(XSS)
+    B --> D{Sitio web}
+    C --> D
+
 ### Impacto
 
 Este es un informe preventivo, aun no se encuentra rastros de exploits a estas vulnerabilidades.
