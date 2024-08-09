@@ -6,7 +6,7 @@ Este informe detalla vectores de ataque CSRF en nuestro sitio web, y otros que p
 
 ## Introducción
 
-https://vilxdryad.eu.org/ es el dominio donde actualmente se aloja nuestro sitio web de venta de maquillaje, y su gestion de stock, Meowrawr.  Herramienta de pentesting de OWASP, Zed Attack Proxy, nos da a conocer, y a posibles atacantes, maneras en las que se puede explotar el nivel de seguridad actual del sitio.
+https://vilxdryad.eu.org/ es el dominio donde actualmente se aloja nuestro sitio web de venta de maquillaje, y su gestion de stock, Meowrawr.  Herramienta de pentesting de OWASP, Zed Attack Proxy, nos da a conocer, y a posibles atacantes, maneras en las que se puede explotar el nivel de seguridad actual del sitio.  Oliver hace este informe
 
 ## Antecedentes del caso
 
