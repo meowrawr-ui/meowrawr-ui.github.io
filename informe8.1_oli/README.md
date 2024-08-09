@@ -73,7 +73,7 @@ No mucho despues de lanzar un prototipo del sitio a produccion en un dominio tem
 
 ### Impacto
 
-Futuro, si!
+Este es un informe preventivo, aun no se encuentra rastros de exploits a estas vulnerabilidades.
 
 ## Conclusiones
 
