@@ -10,7 +10,7 @@ https://vilxdryad.eu.org/ es el dominio donde actualmente se aloja nuestro sitio
 
 ## Antecedentes del caso
 
-Meowrawr utiliza Apache/2.4.58 (Unix), MariaDB 11.3.2, PHP 8.3.6 (fpm-fcgi) con Zend Engine v4.3.6:  Actualmente un atacante puede saber cuales son algunas de las verciones de servidores y software software instalado, y realizar ataques dirigidos a vulnerabilidades que puedan ser detectadas en estos;  un header HTTP actual del sitio revela tal información:
+Meowrawr utiliza Apache/2.4.58 (Unix), MariaDB 11.3.2, PHP 8.3.6 (fpm-fcgi) con Zend Engine v4.3.6:  Actualmente, dia 9 de Agosto de 2024, un atacante puede saber cuales son algunas de las verciones de servidores y software software instalado, y realizar ataques dirigidos a vulnerabilidades que puedan ser detectadas en estos;  un header HTTP actual del sitio revela tal información:
 ```
 HTTP/1.1 200 OK
 Date: Fri, 09 Aug 2024 15:35:29 GMT
