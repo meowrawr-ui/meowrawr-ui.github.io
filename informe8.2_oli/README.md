@@ -157,7 +157,7 @@ OWASP Zap presenta problemas que podrian ayudar a un atacante, como la fuga de i
 
 # 2.6 Conclusiones
 
-El respaldo y analisis constante de archivos de sistemas puede ayudar a prevenir perdidas en un sistema
+No hay ataques que reportar, pero si vectores de ataques:  El respaldo y analisis constante de archivos de sistemas puede ayudar a prevenir perdidas en un sistema
 
 ## 2.6.1 Resumen de los hallazgos clave
 
