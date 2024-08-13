@@ -37,7 +37,7 @@ Este proyecto pretende cumplir ser:
 
 En pestaña Config a la izquierda puedes crear un usuario, que te permitira realizar compras
 
-![registracion](register.png)
+![registracion](markdown_assets/register.png)
 
 Para buscar productos, usa la pestaña Search, tendras un listado de productos disponibles y una barra de busqueda
 
