@@ -1,0 +1,141 @@
+* {
+	box-sizing: border-box;
+	 /*font-family: stylish;*/
+}
+@font-face {
+  font-family: stylish;
+  src: url("Valentine Cute.ttf");
+}
+
+div {
+ 
+}
+body {
+	background-repeat: repeat-x;
+	background-image: url("background.gif");
+	background-color: #00b350;
+
+}
+#mainbox {
+	width: 980px;
+	background-color: #ffd1dc;
+		  display: flex;
+border-radius: 25px;
+}
+.navlink {
+	border-radius: 25px;
+	margin: 8px;
+ 	padding: 20px; 
+ 	width: 100%; 
+ 	&:nth-child(6n+1) {
+      background-color: #ff0000 !important;
+    }
+    &:nth-child(6n+2) {
+      background-color: #ff8000 !important;
+    }
+    &:nth-child(6n+3) {
+      background-color: #ffff00 !important;
+    }
+ 	&:nth-child(6n+4) {
+      background-color: #00ff00 !important;
+    }
+    &:nth-child(6n+5) {
+      background-color: #0000ff !important;
+      color: #ffffff;
+    }
+    &:nth-child(6n+5) a:link {
+      color: #ffffff !important;
+    }
+    &:nth-child(6n+5) a:visited {
+      color: #ffb0ff !important;
+    }
+    &:nth-child(6n+6) {
+      background-color: #8000ff !important;
+    }
+    &:nth-child(6n+6) a:link {
+      color: #ffffff !important;
+    }
+    &:nth-child(6n+6) a:visited {
+      color: #ffb0ff !important;
+    }
+}
+
+#indexcolumn {
+	
+	 clear:left; 
+margin-left: 0;
+display: inline-block;
+	flex: 130px;
+
+}
+#productheader {
+flex:680px; 
+
+
+ 	/*padding: 2px 9px;*/
+ 	background-color: #fff;
+
+    border: 1px solid hotpink;
+	border-radius: 5px;
+	text-align: left;
+
+}
+
+#productcolumn {
+	flex:680px; 
+	margin-left: 16px;
+    margin-bottom: 25px;
+}
+.productrow {
+	display: flex;
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align: center;
+}
+
+.fullwidth {
+	width: 100%;
+}
+
+.squareimage {
+	height: 336.5px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headercolumn {
+	flex: 100%; 
+	background-color: #fff;
+    border: 1px solid hotpink;
+	border-radius: 5px;
+	text-align: left;
+}
+.singlecolumn {
+	flex: 100%; 
+	padding: 20px;
+	background-color: #fff;
+  border: 1px solid hotpink;
+	border-radius: 5px;
+	text-align: left;
+}
+
+.message {
+	margin-bottom: 10px;	
+	padding: 4px 20px;
+}
+
+.doublecolumn {
+	flex: 50%;
+	padding: 20px;
+ 	background-color: #fff;
+    border: 1px solid hotpink;
+	border-radius: 5px;
+	text-align: left;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 5px;
+}
